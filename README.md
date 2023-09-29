@@ -26,7 +26,9 @@ This repository contains MATLAB code for simulating a Hamming-coded BPSK system.
 
 ## Results
 
-The code plots the Bit Error Rate (BER) of the Hamming-coded BPSK system against the theoretical BER of an uncoded BPSK system. This visualizes the improvements brought by the Hamming code in terms of error performance.
+The code plots the Bit Error Rate (BER) of the Hamming-coded BPSK system against the theoretical BER of an uncoded BPSK system. This visualizes the improvements brought by the Hamming code in terms of error performance, as sen below.
+
+![image](https://github.com/jeremytrane/Simulation-of-a-Hamming-coded-BPSK-system/assets/114171300/8ba01a1e-a279-44ca-a95c-15494040dfbe)
 
 ## License
 
